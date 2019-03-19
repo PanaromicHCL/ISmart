@@ -65,8 +65,19 @@
 			<version>1.18.6</version>
 			<scope>provided</scope>
 		</dependency>
-
-
+<distributionmanagement>
+	<repository>
+		<id>nexus</id>
+		<name>ISmart</name>
+		<url>http://13.234.59.233:8081/repository/ISmart/</url>
+		
+	</repository>
+	<repository>
+		<id>nexus</id>
+		<name>ISmart-Snapshot</name>
+		<url>http://13.234.59.233:8081/repository/ISmart-Snapshot/</url>
+		
+	</repository>
 	</dependencies>
 
 	<build>

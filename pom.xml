@@ -69,12 +69,12 @@
 <distributionManagement>
 	    <repository>
 	      <id>nexus</id>
-	      <name>ISmart</name>
+	      <name>ISmart_Release</name>
 	      <url>http://13.234.59.233:8081/repository/ISmart/</url>
 	    </repository>
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>Nuware Technologies Snapshot Nexus Repository </name>
+	      <name>ISmart-Snap</name>
 	      <url>http://13.234.59.233:8081/repository/ISmart-Snapshot/</url>
 	    </snapshotRepository>
 	</distributionManagement>

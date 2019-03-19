@@ -66,12 +66,12 @@
 			<scope>provided</scope>
 		</dependency>
 <distributionmanagement>
-	<repository>
+	<!---<repository>
 		<id>nexus</id>
 		<name>ISmart</name>
 		<url>http://13.234.59.233:8081/repository/ISmart/</url>
 		
-	</repository>
+	</repository>-->
 	<repository>
 		<id>nexus</id>
 		<name>ISmart-Snapshot</name>
